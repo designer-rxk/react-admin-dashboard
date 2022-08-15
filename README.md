@@ -7,4 +7,4 @@ Technology used:
 * Install dependencies
 * Npm start
 ## </br>
-## Check your localhost (http://localhost:3000)
+### Check your localhost (http://localhost:3000)
