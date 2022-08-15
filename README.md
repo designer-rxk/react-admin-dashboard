@@ -6,4 +6,5 @@ Technology used:
 ## Start backend and frontend
 * Install dependencies
 * Npm start
-## Check your localhost (http://localhost:3000)
+## </br>
+ Check your localhost (http://localhost:3000)
