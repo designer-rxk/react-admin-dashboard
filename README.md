@@ -1,10 +1,9 @@
 # React Admin Dashboard
 Technology used:
-* React.js (https://reactjs.org/)
-* Syncfusion (https://www.syncfusion.com/react-ui-components)
-* Tailwind CSS (https://tailwindcss.com/docs/guides/create-react-app)
+* React.js
+* Syncfusion
+* Tailwind CSS
 ## Start backend and frontend
-* Install dependencies
+* Install dependencies</br>
 * Npm start
-##
 ### Check your localhost (http://localhost:3000)
