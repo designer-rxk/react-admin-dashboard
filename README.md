@@ -1,4 +1,5 @@
 # React Admin Dashboard
+
 Technology used:
 * React.js
 * Syncfusion
